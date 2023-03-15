@@ -1,0 +1,26 @@
+.jumbotron {
+    padding: 2rem 1rem;
+    margin-bottom: 2rem;
+    background-color: #e9ecef;
+    border-radius: .3rem;
+}
+
+.avatar{
+    width: 200px;
+}
+
+.container{
+    display: block;
+    text-align: center;
+}
+
+.textSection{
+    display: block;
+    text-align: center;
+}
+
+.aboutMeText{
+    margin-left: auto;
+    margin-right: auto;
+    width: 50em;
+}
