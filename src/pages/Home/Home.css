@@ -14,13 +14,17 @@
     text-align: center;
 }
 
-.textSection{
+.aboutSection, .skillsSection{
     display: block;
     text-align: center;
 }
 
-.aboutMeText{
+.aboutMeText, .skillsText{
     margin-left: auto;
     margin-right: auto;
     width: 40%;
+}
+
+.skillsText{
+    text-align: left;
 }
