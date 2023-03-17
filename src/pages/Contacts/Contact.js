@@ -1,7 +1,10 @@
 import './Contact.css';
+import Form from '../../components/Form/Form'
 
 function Contact(){
-    return <div>contacts</div>;
+    return (
+        <Form />
+    );
 }
 
 export default Contact;
