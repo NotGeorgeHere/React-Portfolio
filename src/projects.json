@@ -1,3 +1,44 @@
 [
-    
+    {
+        "id": 1,
+        "projectName": "Daily Planner",
+        "screenshot": "./images/ProjectScreenshots/daily-planner-usage.png",
+        "GitHub": "https://github.com/NotGeorgeHere/Daily-Planner-App",
+        "DeployedLink": "https://notgeorgehere.github.io/Daily-Planner-App"
+    },
+    {
+        "id": 2,
+        "projectName": "Word Giffy",
+        "screenshot": "./images/ProjectScreenshots/wordgiffy-screenshot.png",
+        "GitHub": "https://github.com/NotGeorgeHere/Daily-Planner-App",
+        "DeployedLink": "https://notgeorgehere.github.io/Daily-Planner-App"
+    },
+    {
+        "id": 3,
+        "projectName": "Weather Dashboard",
+        "screenshot": "./images/ProjectScreenshots/weatherScreenshot.png",
+        "GitHub": "https://github.com/NotGeorgeHere/Daily-Planner-App",
+        "DeployedLink": "https://notgeorgehere.github.io/Daily-Planner-App"
+    },
+    {
+        "id": 4,
+        "projectName": "HTML Webpage Generator",
+        "screenshot": "./images/ProjectScreenshots/htmlwebpage.png",
+        "GitHub": "https://github.com/NotGeorgeHere/Daily-Planner-App",
+        "DeployedLink": "https://notgeorgehere.github.io/Daily-Planner-App"
+    },
+    {
+        "id": 5,
+        "projectName": "Password Generator",
+        "screenshot": "./images/ProjectScreenshots/passwordGenerator.PNG",
+        "GitHub": "https://github.com/NotGeorgeHere/Daily-Planner-App",
+        "DeployedLink": "https://notgeorgehere.github.io/Daily-Planner-App"
+    },
+    {
+        "id": 6,
+        "projectName": "Quiz game",
+        "screenshot": "./images/ProjectScreenshots/quiz.PNG",
+        "GitHub": "https://github.com/NotGeorgeHere/Daily-Planner-App",
+        "DeployedLink": "https://notgeorgehere.github.io/Daily-Planner-App"
+    }
 ]
