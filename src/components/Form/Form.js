@@ -59,7 +59,9 @@ function Form(){
             <label for="exampleInputPassword1">Your Message:</label>
             <textarea type="text-area" className="form-control" name="message" value={message} placeholder="Enter Message..." onChange={handleInputChange} rows="3"/>
         </div>
+        <div className='formButtonCustom'>
         <button type="submit" className="btn btn-primary" onClick={formSubmit}>Submit</button>
+        </div>
         <p className='submitMessage'>{submitted}</p>
         </form>    
     );

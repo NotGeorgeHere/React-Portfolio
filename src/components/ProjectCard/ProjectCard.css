@@ -5,3 +5,12 @@
 .card{
     margin: 50px;
 }
+
+.card-title{
+    margin-top: 10px;
+    margin-bottom: -10px;
+}
+
+.btn{
+    margin-left: 15px !important;
+}
