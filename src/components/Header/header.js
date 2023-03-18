@@ -12,7 +12,7 @@ function Header(){
 
         <li className="nav-item">
             <NavLink 
-            to='/' 
+            to='/React-Portfolio' 
             end 
             className={({ isActive }) =>
                 isActive ? 'nav-link active' : 'nav-link'
