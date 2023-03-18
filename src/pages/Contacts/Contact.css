@@ -1,0 +1,33 @@
+.contactFormOverall{
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+.contacth3More, .contacth3{
+    text-align: center;
+    text-decoration: underline;
+}
+.contacth3More{
+    margin-bottom: 50px;
+    text-decoration: none;
+}
+
+.image{
+    width: 100px;
+}
+
+.row{
+    margin-bottom: 30px;
+}
+
+.customLink{
+    color: black;
+    font-size: 20px;
+    text-decoration: none;
+    font-weight: bolder;
+  }
+  .customLink:hover{
+    color: blue;
+    text-decoration: underline;
+  }

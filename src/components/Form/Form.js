@@ -44,8 +44,8 @@ function Form(){
     }
 
     return (
-    <form>
-        <h3>Contact Me:</h3>
+    <form className="contactForm">
+        <h3 className='contacth3'>Contact Me:</h3>
         <p>This is a placeholder</p>
         <div className="form-group">
             <label for="exampleInputEmail1">Your name:</label>
@@ -57,7 +57,7 @@ function Form(){
         </div>
         <div className="form-group">
             <label for="exampleInputPassword1">Your Message:</label>
-            <input type="text-area" className="form-control" name="message" value={message} placeholder="Enter Message" onChange={handleInputChange}/>
+            <textarea type="text-area" className="form-control" name="message" value={message} placeholder="Enter Message..." onChange={handleInputChange} rows="3"/>
         </div>
         <button type="submit" className="btn btn-primary" onClick={formSubmit}>Submit</button>
         <p className='submitMessage'>{submitted}</p>
