@@ -8,8 +8,8 @@ Installation:
 
 GitHub repository: https://github.com/NotGeorgeHere/React-Portfolio
 
-Live Deployment Link: 
+Live Deployment Link: https://notgeorgehere.github.io/React-Portfolio/
 
 Usage:
 
-![application](./src/images/applicationScreenshot.png)
+![application](./src/images/screenshotREADME.png)

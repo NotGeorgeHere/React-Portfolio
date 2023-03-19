@@ -2,42 +2,42 @@
     {
         "id": 1,
         "projectName": "Daily Planner",
-        "screenshot": "public/ProjectScreenshots/daily-planner-usage.png",
+        "screenshot": "/ProjectScreenshots/daily-planner-usage.png",
         "GitHub": "https://github.com/NotGeorgeHere/Daily-Planner-App",
         "DeployedLink": "https://notgeorgehere.github.io/Daily-Planner-App"
     },
     {
         "id": 2,
         "projectName": "Word Giffy",
-        "screenshot": "public/ProjectScreenshots/wordgiffy-screenshot.png",
+        "screenshot": "/ProjectScreenshots/wordgiffy-screenshot.png",
         "GitHub": "https://github.com/DavidBlueLamassu/WordGiffy",
         "DeployedLink": "https://davidbluelamassu.github.io/WordGiffy/"
     },
     {
         "id": 3,
         "projectName": "Weather Dashboard",
-        "screenshot": "public/ProjectScreenshots/weatherScreenshot.png",
+        "screenshot": "/ProjectScreenshots/weatherScreenshot.png",
         "GitHub": "https://github.com/NotGeorgeHere/Weather-Dashboard",
         "DeployedLink": "https://notgeorgehere.github.io/Weather-Dashboard"
     },
     {
         "id": 4,
         "projectName": "Team Profile Generator",
-        "screenshot": "public/ProjectScreenshots/htmlwebpage.png",
+        "screenshot": "/ProjectScreenshots/htmlwebpage.png",
         "GitHub": "https://github.com/NotGeorgeHere/Team-Profile-Generator",
         "DeployedLink": "https://github.com/NotGeorgeHere/Team-Profile-Generator"
     },
     {
         "id": 5,
         "projectName": "Password Generator",
-        "screenshot": "public/ProjectScreenshots/passwordGenerator.PNG",
+        "screenshot": "/ProjectScreenshots/passwordGenerator.PNG",
         "GitHub": "https://github.com/NotGeorgeHere/Password-Generator",
         "DeployedLink": "https://notgeorgehere.github.io/Password-Generator/"
     },
     {
         "id": 6,
         "projectName": "Quiz game",
-        "screenshot": "public/ProjectScreenshots/quiz.PNG",
+        "screenshot": "/ProjectScreenshots/quiz.PNG",
         "GitHub": "https://github.com/NotGeorgeHere/Code-Quiz",
         "DeployedLink": "https://notgeorgehere.github.io/Code-Quiz/index.html"
     }
