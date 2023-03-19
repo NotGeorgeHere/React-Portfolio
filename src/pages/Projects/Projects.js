@@ -4,8 +4,9 @@ import './Projects.css';
 
 function Projects(){
     return (
+        <div>
+            <h3 className="projectTitle">Check out my projects here:</h3>
         <div className="row d-flex justify-content-center">
-            <h3 className="projectTitle">Check out my projects:</h3>
             {projects.map((project) => (
                 <ProjectCard 
                     id={project.id}
@@ -15,6 +16,7 @@ function Projects(){
                     DeployedLink={project.DeployedLink}
                 />
             ))}
+        </div>
         </div>
     );
 }
