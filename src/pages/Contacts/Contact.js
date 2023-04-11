@@ -7,7 +7,7 @@ function Contact(){
     return (
         <div className='contactFormOverall'>
             <Form />
-            <h3 className='contacth3More'>Or view me on here</h3>
+            <h3 className='contacth3More'>Or view me on here:</h3>
             <div className="container text-center">
                 <div className="row">
                     <div className="col">

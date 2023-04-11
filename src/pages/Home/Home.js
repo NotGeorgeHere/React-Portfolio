@@ -19,18 +19,31 @@ function Home(){
 
                 <h5>Feel free to contact me!</h5>
                 <br></br>
+                <hr></hr>
             </div>
 
             <div className="skillsSection">
                 <h3 className="skills">Skills</h3>
-                <ul className='skillsText'>
-                <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
-                <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus eu hendrerit urna. </li>
-                <li>Lorem ipsum dolor sit amet.</li>
-                <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus eu hendrerit urna. Donec commodo luctus vulputate.</li>
-                <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus eu hendrerit urna. Donec commodo luctus vulputate. Etiam blandit mauris urna, ut cursus turpis ultrices non. </li>
-                <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. </li>    
-                </ul>
+                <div className='skillsTextDiv'>
+                    <ul className='skillsText'>
+                        <li>HTML</li>
+                        <li>CSS</li>
+                        <li>JavaScript</li>
+                        <li>jQuery</li>
+                    </ul>
+                    <ul className='skillsText'>
+                        <li>React.js</li>
+                        <li>ES6</li>
+                        <li>Node.js + NPM package manager</li>
+                        <li>Git + GitHub</li>
+                    </ul>
+                    <ul className='skillsText'>
+                        <li>BootStrap</li>
+                        <li>APIs</li>
+                        <li>Deployment (GitHub pages + Netlify)</li>
+                        <li>DOM manipulation + JSON</li>
+                    </ul>
+                </div>
             </div>
         </div>      
     );
