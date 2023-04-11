@@ -1,13 +1,12 @@
 import { NavLink, Link} from 'react-router-dom';
+import "./Header.css"
 
 function Header(){
     return(
-    <nav className="navbar navbar-expand-lg navbar-light bg-light">
+    <nav className="navbar navbar-expand-lg navbar-light bg-light navbar-custom">
     <Link className="navbar-brand" to='/React-Portfolio'>React Portfolio</Link>
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
-    </button>
-    <div className="collapse navbar-collapse" id="navbarNav">
+    
+    <div className="expand navbar-expand" id="navbarSupportedContent">
         <ul className="navbar-nav">
 
         <li className="nav-item">
