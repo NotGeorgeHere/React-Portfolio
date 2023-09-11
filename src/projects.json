@@ -1,48 +1,55 @@
-[
+[   
     {
         "id": 1,
+        "projectName": "Dog Adoption Website",
+        "screenshot": "/ProjectScreenshots/dogAdoption.png",
+        "GitHub": "https://github.com/NotGeorgeHere/dog-practice-website",
+        "DeployedLink": "https://notgeorgehere.github.io/dog-practice-website/"  
+    },
+    {
+        "id": 2,
         "projectName": "Exercise Productivity App",
         "screenshot": "/ProjectScreenshots/productivityApp.png",
         "GitHub": "https://github.com/daveheseltine/productivity-app",
         "DeployedLink": "https://mellow-clafoutis-de2706.netlify.app/"  
     },
     {
-        "id": 2,
+        "id": 3,
         "projectName": "Daily Planner",
         "screenshot": "/ProjectScreenshots/daily-planner-usage.png",
         "GitHub": "https://github.com/NotGeorgeHere/Daily-Planner-App",
         "DeployedLink": "https://notgeorgehere.github.io/Daily-Planner-App"
     },
     {
-        "id": 3,
+        "id": 4,
         "projectName": "Word Giffy",
         "screenshot": "/ProjectScreenshots/wordgiffy-screenshot.png",
         "GitHub": "https://github.com/DavidBlueLamassu/WordGiffy",
         "DeployedLink": "https://davidbluelamassu.github.io/WordGiffy/"
     },
     {
-        "id": 4,
+        "id": 5,
         "projectName": "Weather Dashboard",
         "screenshot": "/ProjectScreenshots/weatherScreenshot.png",
         "GitHub": "https://github.com/NotGeorgeHere/Weather-Dashboard",
         "DeployedLink": "https://notgeorgehere.github.io/Weather-Dashboard"
     },
     {
-        "id": 5,
+        "id": 6,
         "projectName": "Team Profile Generator",
         "screenshot": "/ProjectScreenshots/htmlwebpage.png",
         "GitHub": "https://github.com/NotGeorgeHere/Team-Profile-Generator",
         "DeployedLink": "https://github.com/NotGeorgeHere/Team-Profile-Generator"
     },
     {
-        "id": 6,
+        "id": 7,
         "projectName": "Password Generator",
         "screenshot": "/ProjectScreenshots/passwordGenerator.PNG",
         "GitHub": "https://github.com/NotGeorgeHere/Password-Generator",
         "DeployedLink": "https://notgeorgehere.github.io/Password-Generator/"
     },
     {
-        "id": 7,
+        "id": 8,
         "projectName": "Quiz game",
         "screenshot": "/ProjectScreenshots/quiz.PNG",
         "GitHub": "https://github.com/NotGeorgeHere/Code-Quiz",
